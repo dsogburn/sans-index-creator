@@ -93,7 +93,6 @@ Background Graphics: Checked (to ensure formatting renders correctly)
 
 ### Example Output
 
-<img width="859" height="1153" alt="image" src="https://github.com/user-attachments/assets/27a5c8a4-308a-41f1-8fbe-9ed876e19267" />
 
 
 ---
@@ -102,6 +101,14 @@ Background Graphics: Checked (to ensure formatting renders correctly)
 Core Extraction Logic: Originally created by [Ge0rg3](https://github.com/Ge0rg3/sans-index-creator).
 
 Compact Formatter: Added by [dsogburn](https://github.com/dsogburn) to optimize the index for physical exam use.
+
+---
+
+## ⚖️ Disclaimer & Academic Integrity
+This tool is a formatter designed to help students organize their own personal study notes. 
+- **User Responsibility:** Users are responsible for ensuring their use of this tool complies with the SANS/GIAC Academic Integrity Policy.
+- **No Content Included:** This repository does NOT contain SANS courseware, copyrighted text, or exam content. 
+- **Usage:** This script should only be used with data the student has generated themselves from their own legally obtained course materials.
 
 ---
 
