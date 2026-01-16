@@ -77,7 +77,7 @@ Once you have your combined_index.txt, use the Compact Generator to create a cle
 
 
 ### Usage
-1) Run the script and follow the interactive prompts for the Course Title and Column Count: `python3 txt2index.py combined_index.txt GICSP_Index.html`
+1) Run the script and follow the interactive prompts for the Course Title and Column Count: `python3 txt2index.py combined_index.txt Printable_Index.html`
 2) Open GICSP_Index.html in any modern web browser (Chrome, Edge, or Firefox) and Print to PDF.
 
 ### Recommended Print Settings:
