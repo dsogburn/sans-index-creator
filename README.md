@@ -1,5 +1,5 @@
 # SANS Index Creator (Compact & Print-Optimized)
-This repository is a fork of [Ge0rg3/sans-index-creator](https://github.com/Ge0rg3/sans-index-creator), enhanced with a high-density, print-optimized formatter. It is specifically designed for SANS GIAC exams (such as GICSP, SEC504, or FOR508) where rapid lookup speed and minimal physical paper bulk are critical for success.
+This repository is a fork of [Ge0rg3/sans-index-creator](https://github.com/Ge0rg3/sans-index-creator), enhanced with a high-density, print-optimized formatter. It is specifically designed for SANS GIAC exams where rapid lookup speed and minimal physical paper bulk are critical for success.
 
 ---
 
