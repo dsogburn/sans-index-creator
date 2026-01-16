@@ -29,8 +29,7 @@ If your course has multiple books, you can combine the indexes created by `sans_
 `python3 index_combiner.py index1.txt index2.txt index3.txt > combined_index.txt`. This will create an index which displays both book number and page number of each keyword.
 
 
----
-## Output example
+### Output example
 Here is a snippet of the output for a course pdf:
 ```
 shell-item: 2(38)
@@ -93,6 +92,7 @@ Background Graphics: Checked (to ensure formatting renders correctly)
 
 ### Example Output
 
+<img width="529" height="364" alt="image" src="https://github.com/user-attachments/assets/9afdd9fb-bb8b-4f12-b4c0-92f1f78724e5" />
 
 
 ---
